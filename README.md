@@ -41,12 +41,8 @@ pip install Pillow
 
 1. Clone or download this repository to your local machine.
 2. Open the terminal or command prompt in the folder containing the Python script.
-3. Run the application with:
-
-```
-python steganography_app.py
-```
-
+3. Run the application.
+   
 The application will launch a window with two tabs: **Encrypt** and **Decrypt**.
 
 ## License
