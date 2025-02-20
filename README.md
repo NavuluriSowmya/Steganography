@@ -1,4 +1,4 @@
-# Steganography
+# Secure data hiding in image using steganography
 Python-based GUI application allows you to hide and extract secret messages within image files using steganography techniques. It enables encryption of messages by embedding them in an image and decryption for recovering the original message using a password.
 
 ## Features
